@@ -8,3 +8,7 @@ Implementation of the [Task Tracker Project](https://roadmap.sh/projects/task-tr
    ```bash
    git clone https://github.com/juanaxyz/task-tracker.git
    cd task-tracker
+
+2. Run the app using python
+   ```bash
+   python3 main.py
